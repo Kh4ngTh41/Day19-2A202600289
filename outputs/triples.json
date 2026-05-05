@@ -1,0 +1,3707 @@
+{
+  "triples": [
+    {
+      "subject": "OpenAI",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "FOUNDED_IN",
+      "object": "2015"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "FOUNDED_BY",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "FOUNDED_BY",
+      "object": "Sam Altman"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "FOUNDED_BY",
+      "object": "Ilya Sutskever"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "FOUNDED_BY",
+      "object": "Greg Brockman"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "FOUNDED_BY",
+      "object": "seven other co-founders"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "DEVELOPED",
+      "object": "GPT family of large language models"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "DEVELOPED",
+      "object": "DALL-E series for text-to-image generation"
+    },
+    {
+      "subject": "OpenAI",
+      "relation": "DEVELOPED",
+      "object": "Sora text-to-video models"
+    },
+    {
+      "subject": "ChatGPT",
+      "relation": "RELEASED_IN",
+      "object": "2022"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "INVESTED_IN",
+      "object": "OpenAI"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "PROVIDES",
+      "object": "Azure cloud computing resources"
+    },
+    {
+      "subject": "Sam Altman",
+      "relation": "CEO_OF",
+      "object": "OpenAI"
+    },
+    {
+      "subject": "Google",
+      "relation": "FOUNDED_BY",
+      "object": "Larry Page"
+    },
+    {
+      "subject": "Google",
+      "relation": "FOUNDED_BY",
+      "object": "Sergey Brin"
+    },
+    {
+      "subject": "Google",
+      "relation": "FOUNDED_IN",
+      "object": "1998"
+    },
+    {
+      "subject": "Google",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "Google",
+      "relation": "CEO_OF",
+      "object": "Sundar Pichai"
+    },
+    {
+      "subject": "Sundar Pichai",
+      "relation": "CEO_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "Sundar Pichai",
+      "relation": "BECAME_CEO_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "Google",
+      "relation": "OFFERS",
+      "object": "Gmail"
+    },
+    {
+      "subject": "Google",
+      "relation": "OFFERS",
+      "object": "Google Maps"
+    },
+    {
+      "subject": "Google",
+      "relation": "OFFERS",
+      "object": "Chrome"
+    },
+    {
+      "subject": "Google",
+      "relation": "OFFERS",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Google",
+      "relation": "OFFERS",
+      "object": "Android"
+    },
+    {
+      "subject": "Google",
+      "relation": "OFFERS",
+      "object": "Gemini AI model"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2004"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "ESTABLISHED_IN",
+      "object": "February 4, 2004"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Menlo Park, California"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Mark Zuckerberg"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Eduardo Saverin"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Dustin Moskovitz"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Andrew McCollum"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Chris Hughes"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "REBRANDED_TO",
+      "object": "Facebook, Inc."
+    },
+    {
+      "subject": "Facebook, Inc.",
+      "relation": "REBRANDED_TO",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Mark Zuckerberg",
+      "relation": "CEO_OF",
+      "object": "Meta Platforms, Inc."
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "OWNS",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "OWNS",
+      "object": "Instagram"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "OWNS",
+      "object": "WhatsApp"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "OWNS",
+      "object": "Messenger"
+    },
+    {
+      "subject": "Meta Platforms, Inc.",
+      "relation": "OWNS",
+      "object": "Threads"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Steve Jobs"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Steve Wozniak"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Ronald Wayne"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "1976"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "REBRANDED_FROM",
+      "object": "Apple Computer, Inc."
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "REBRANDED_TO",
+      "object": "Apple Inc."
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Cupertino, California"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "CEO_OF",
+      "object": "Tim Cook"
+    },
+    {
+      "subject": "Tim Cook",
+      "relation": "ASSUMED_POSITION_IN",
+      "object": "2011"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "iPhone"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "iPad"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "Mac"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "Apple Watch"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "AirPods"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "Apple Pay"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "iCloud"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "Apple Music"
+    },
+    {
+      "subject": "Apple Inc.",
+      "relation": "INCLUDES",
+      "object": "Apple TV+"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "FOUNDED_IN",
+      "object": "1975"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "FOUNDED_BY",
+      "object": "Bill Gates"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "FOUNDED_BY",
+      "object": "Paul Allen"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Redmond, Washington"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "DEVELOPED",
+      "object": "Windows operating system"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "DEVELOPED",
+      "object": "Office productivity suite"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "DEVELOPED",
+      "object": "Azure cloud platform"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "DEVELOPED",
+      "object": "Bing search engine"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "DEVELOPED",
+      "object": "Xbox gaming platform"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "LinkedIn"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "GitHub"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "Activision Blizzard"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "ACQUIRED_FOR",
+      "object": "$7.5 billion"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "ACQUIRED_FOR",
+      "object": "$68.7 billion"
+    },
+    {
+      "subject": "Satya Nadella",
+      "relation": "CEO_OF",
+      "object": "Microsoft"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "FOUNDED_IN",
+      "object": "April 4, 1975"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "FOUNDED_IN",
+      "object": "Albuquerque, New Mexico"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_IN",
+      "object": "2018"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "Satya Nadella",
+      "relation": "STARTED_AS_CEO",
+      "object": "2014"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "FOUNDED_BY",
+      "object": "Jensen Huang"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "FOUNDED_BY",
+      "object": "Chris Malachowsky"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "FOUNDED_BY",
+      "object": "Curtis Priem"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "FOUNDED_IN",
+      "object": "1993"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Santa Clara, California"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "DESIGNS",
+      "object": "graphics processing units (GPUs)"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "DEVELOPED",
+      "object": "CUDA"
+    },
+    {
+      "subject": "Jensen Huang",
+      "relation": "CEO_OF",
+      "object": "Nvidia"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "FOUNDED_IN",
+      "object": "2021"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "FOUNDED_BY",
+      "object": "Dario Amodei"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "FOUNDED_BY",
+      "object": "Daniela Amodei"
+    },
+    {
+      "subject": "Dario Amodei",
+      "relation": "CEO_OF",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "Daniela Amodei",
+      "relation": "PRESIDENT_OF",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "Claude",
+      "relation": "DEVELOPED_BY",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "Claude",
+      "relation": "RELEASED_IN",
+      "object": "March 2023"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "INVESTED_IN",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "INVESTED_IN",
+      "object": "$4 billion"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "Amazon"
+    },
+    {
+      "subject": "Google",
+      "relation": "INVESTED_IN",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "Google",
+      "relation": "INVESTED_IN",
+      "object": "$500 million"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "Google"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "INVESTED_IN",
+      "object": "November 2024"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "FOUNDED_BY",
+      "object": "Demis Hassabis"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "FOUNDED_BY",
+      "object": "Shane Legg"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "FOUNDED_BY",
+      "object": "Mustafa Suleyman"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "FOUNDED_IN",
+      "object": "2010"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "HEADQUARTERED_IN",
+      "object": "London"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "ACQUIRED",
+      "object": "Google"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "ACQUIRED_IN",
+      "object": "2014"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "MERGED_WITH",
+      "object": "Google Brain"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "FORMED",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "DEVELOPED",
+      "object": "AlphaGo"
+    },
+    {
+      "subject": "AlphaGo",
+      "relation": "DEFEATED",
+      "object": "Lee Sedol"
+    },
+    {
+      "subject": "AlphaGo",
+      "relation": "DEFEATED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "DEVELOPED",
+      "object": "AlphaZero"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "DEVELOPED",
+      "object": "AlphaFold"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "CONTRIBUTES_TO",
+      "object": "Gemini language model"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FOUNDED_BY",
+      "object": "Chad Hurley"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FOUNDED_BY",
+      "object": "Steve Chen"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FOUNDED_BY",
+      "object": "Jawed Karim"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FOUNDED_IN",
+      "object": "2005"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FIRST_VIDEO_UPLOADED_BY",
+      "object": "Jawed Karim"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FIRST_VIDEO_TITLE",
+      "object": "Me at the zoo"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "FIRST_VIDEO_UPLOADED_ON",
+      "object": "2005-04-23"
+    },
+    {
+      "subject": "Google",
+      "relation": "ACQUIRED",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Google",
+      "relation": "ACQUISITION_DATE",
+      "object": "2006-11-13"
+    },
+    {
+      "subject": "YouTube",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Bruno, California"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "FOUNDED_BY",
+      "object": "Tom Preston-Werner"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "FOUNDED_BY",
+      "object": "Chris Wanstrath"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "FOUNDED_BY",
+      "object": "P.J. Hyett"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "FOUNDED_BY",
+      "object": "Scott Chacon"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "DEVELOPED",
+      "object": "collaborative software development platform"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "FOUNDED_IN",
+      "object": "2007"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "LAUNCHED_IN",
+      "object": "2008"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUISITION_DATE",
+      "object": "2018"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$7.5 billion"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "CLOSED_ON",
+      "object": "2018"
+    },
+    {
+      "subject": "GitHub",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Microsoft"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Austin, Texas"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "FOUNDED_ON",
+      "object": "2003-07-01"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Martin Eberhard"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Marc Tarpenning"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "LED",
+      "object": "Tesla's first funding round"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "INVESTED_IN",
+      "object": "Tesla, Inc."
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "BECAME",
+      "object": "chairman"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "ASSUMED_ROLE_OF",
+      "object": "CEO"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "ACQUIRED",
+      "object": "SolarCity"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Roadster"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Model S"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Model X"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Model 3"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Model Y"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Semi"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Cybertruck"
+    },
+    {
+      "subject": "Instagram",
+      "relation": "OWNED_BY",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Instagram",
+      "relation": "CREATED_BY",
+      "object": "Kevin Systrom"
+    },
+    {
+      "subject": "Instagram",
+      "relation": "CREATED_BY",
+      "object": "Mike Krieger"
+    },
+    {
+      "subject": "Instagram",
+      "relation": "LAUNCHED_ON",
+      "object": "2010-10-12"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED",
+      "object": "Instagram"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "NOW_KNOWN_AS",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED_FOR",
+      "object": "$1 billion"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUISITION_CLOSED_ON",
+      "object": "2012-09-06"
+    },
+    {
+      "subject": "WhatsApp",
+      "relation": "FOUNDED_IN",
+      "object": "2009"
+    },
+    {
+      "subject": "WhatsApp",
+      "relation": "FOUNDED_BY",
+      "object": "Brian Acton"
+    },
+    {
+      "subject": "WhatsApp",
+      "relation": "FOUNDED_BY",
+      "object": "Jan Koum"
+    },
+    {
+      "subject": "WhatsApp",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Menlo Park, California"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED",
+      "object": "WhatsApp"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED_IN",
+      "object": "February 2014"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$19 billion"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "LARGEST_ACQUISITION",
+      "object": "WhatsApp"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "FOUNDED_BY",
+      "object": "Reid Hoffman"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "FOUNDED_BY",
+      "object": "Allen Blue"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "FOUNDED_BY",
+      "object": "Konstantin Guericke"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "FOUNDED_BY",
+      "object": "Eric Ly"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "FOUNDED_BY",
+      "object": "Jean-Luc Vaillant"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "FOUNDED_IN",
+      "object": "2002"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "LAUNCHED_ON",
+      "object": "2003-05-05"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "LinkedIn"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Sunnyvale, California"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "ACQUIRED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "ChatGPT",
+      "relation": "DEVELOPED_BY",
+      "object": "OpenAI"
+    },
+    {
+      "subject": "ChatGPT",
+      "relation": "RELEASED_ON",
+      "object": "November 30, 2022"
+    },
+    {
+      "subject": "ChatGPT",
+      "relation": "BUILT_ON",
+      "object": "GPT family of large language models"
+    },
+    {
+      "subject": "ChatGPT",
+      "relation": "GROWN_TO",
+      "object": "100 million users"
+    },
+    {
+      "subject": "ChatGPT",
+      "relation": "RUNS_ON",
+      "object": "Microsoft Azure cloud infrastructure"
+    },
+    {
+      "subject": "Claude",
+      "relation": "DEVELOPED",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "Claude",
+      "relation": "RELEASED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "Claude",
+      "relation": "NAMED_AFTER",
+      "object": "Claude Shannon"
+    },
+    {
+      "subject": "Claude",
+      "relation": "COMPETES_WITH",
+      "object": "OpenAI's GPT models"
+    },
+    {
+      "subject": "Claude",
+      "relation": "COMPETES_WITH",
+      "object": "Google's Gemini"
+    },
+    {
+      "subject": "Claude",
+      "relation": "AVAILABLE_THROUGH",
+      "object": "Anthropic's API"
+    },
+    {
+      "subject": "Claude",
+      "relation": "AVAILABLE_THROUGH",
+      "object": "Amazon Bedrock"
+    },
+    {
+      "subject": "AlphaGo",
+      "relation": "DEVELOPED_BY",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "Lee Sedol",
+      "relation": "WORLD_CHAMPION_COUNT",
+      "object": "18"
+    },
+    {
+      "subject": "AlphaGo",
+      "relation": "HELD_IN",
+      "object": "Seoul, South Korea"
+    },
+    {
+      "subject": "AlphaGo",
+      "relation": "DEFEATED_IN",
+      "object": "March 2016"
+    },
+    {
+      "subject": "AlphaGo",
+      "relation": "FIRST_TO_DEFEAT",
+      "object": "professional human Go player without handicaps"
+    },
+    {
+      "subject": "AlphaFold",
+      "relation": "DEVELOPED",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "AlphaFold 2",
+      "relation": "RELEASED_IN",
+      "object": "2020"
+    },
+    {
+      "subject": "AlphaFold 2",
+      "relation": "REVOLUTIONIZED",
+      "object": "structural biology"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "relation": "RECEIVED",
+      "object": "2024 Nobel Prize in Chemistry"
+    },
+    {
+      "subject": "John Jumper",
+      "relation": "RECEIVED",
+      "object": "2024 Nobel Prize in Chemistry"
+    },
+    {
+      "subject": "DeepMind",
+      "relation": "RECEIVED",
+      "object": "2024 Nobel Prize in Chemistry"
+    },
+    {
+      "subject": "SolarCity",
+      "relation": "FOUNDED_IN",
+      "object": "2006"
+    },
+    {
+      "subject": "Lyndon Rive",
+      "relation": "FOUNDED_BY",
+      "object": "SolarCity"
+    },
+    {
+      "subject": "Peter Rive",
+      "relation": "FOUNDED_BY",
+      "object": "SolarCity"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "COUSIN_OF",
+      "object": "Lyndon Rive"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "COUSIN_OF",
+      "object": "Peter Rive"
+    },
+    {
+      "subject": "SolarCity",
+      "relation": "ACQUIRED_IN",
+      "object": "November 2016"
+    },
+    {
+      "subject": "SolarCity",
+      "relation": "PART_OF",
+      "object": "Tesla Energy"
+    },
+    {
+      "subject": "PayPal",
+      "relation": "FOUNDED_IN",
+      "object": "1998"
+    },
+    {
+      "subject": "PayPal",
+      "relation": "FOUNDED_BY",
+      "object": "Max Levchin"
+    },
+    {
+      "subject": "PayPal",
+      "relation": "FOUNDED_BY",
+      "object": "Peter Thiel"
+    },
+    {
+      "subject": "PayPal",
+      "relation": "FOUNDED_BY",
+      "object": "Luke Nosek"
+    },
+    {
+      "subject": "Confinity",
+      "relation": "MERGED_WITH",
+      "object": "X.com"
+    },
+    {
+      "subject": "X.com",
+      "relation": "FOUNDED_BY",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "PayPal",
+      "relation": "RENAMED_FROM",
+      "object": "Confinity"
+    },
+    {
+      "subject": "PayPal",
+      "relation": "RENAMED_IN",
+      "object": "2001"
+    },
+    {
+      "subject": "eBay",
+      "relation": "ACQUIRED",
+      "object": "PayPal"
+    },
+    {
+      "subject": "eBay",
+      "relation": "ACQUIRED_IN",
+      "object": "2002"
+    },
+    {
+      "subject": "eBay",
+      "relation": "ACQUIRED_FOR",
+      "object": "$1.5 billion"
+    },
+    {
+      "subject": "Steve Chen",
+      "relation": "CO_FOUNDED",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Chad Hurley",
+      "relation": "CO_FOUNDED",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Jawed Karim",
+      "relation": "CO_FOUNDED",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "CO_FOUNDED",
+      "object": "Tesla, Inc."
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "CO_FOUNDED",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Reid Hoffman",
+      "relation": "CO_FOUNDED",
+      "object": "LinkedIn"
+    },
+    {
+      "subject": "Peter Thiel",
+      "relation": "CO_FOUNDED",
+      "object": "Palantir"
+    },
+    {
+      "subject": "Max Levchin",
+      "relation": "FOUNDED",
+      "object": "Affirm"
+    },
+    {
+      "subject": "David Sacks",
+      "relation": "CO_FOUNDED",
+      "object": "Yammer"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2015"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Mountain View, California"
+    },
+    {
+      "subject": "Larry Page",
+      "relation": "CEO_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Google"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "SUBSIDIARY_OF",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "SUBSIDIARY_OF",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Waymo"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Verily"
+    },
+    {
+      "subject": "Waymo",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "Waymo",
+      "relation": "FOUNDED_IN",
+      "object": "2009"
+    },
+    {
+      "subject": "Waymo",
+      "relation": "BECAME_STANDALONE_SUBSIDIARY_OF",
+      "object": "Alphabet Inc."
+    },
+    {
+      "subject": "Waymo",
+      "relation": "FOUNDED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "Waymo",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Mountain View, California"
+    },
+    {
+      "subject": "xAI",
+      "relation": "FOUNDED_BY",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "xAI",
+      "relation": "FOUNDED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "xAI",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco Bay Area"
+    },
+    {
+      "subject": "xAI",
+      "relation": "DEVELOPED",
+      "object": "Grok large language model"
+    },
+    {
+      "subject": "xAI",
+      "relation": "ACQUIRED",
+      "object": "X (Twitter)"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "FORMERLY",
+      "object": "X (Twitter)"
+    },
+    {
+      "subject": "xAI",
+      "relation": "ACQUIRED_IN",
+      "object": "2025"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "FOUNDED_BY",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "FOUNDED_IN",
+      "object": "2002"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Hawthorne, California"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "DEVELOPED",
+      "object": "Falcon 9"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "DEVELOPED",
+      "object": "Falcon Heavy"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "DEVELOPED",
+      "object": "Dragon spacecraft"
+    },
+    {
+      "subject": "SpaceX",
+      "relation": "DEVELOPED",
+      "object": "Starship vehicle"
+    },
+    {
+      "subject": "Gwynne Shotwell",
+      "relation": "CEO_OF",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "FOUNDED",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "GPT-4",
+      "relation": "DEVELOPED",
+      "object": "OpenAI"
+    },
+    {
+      "subject": "GPT-4",
+      "relation": "RELEASED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "GPT-4",
+      "relation": "SUCCESSOR_TO",
+      "object": "GPT-3.5"
+    },
+    {
+      "subject": "GPT-4",
+      "relation": "POWERS",
+      "object": "ChatGPT"
+    },
+    {
+      "subject": "GPT-4",
+      "relation": "TRAINED_ON",
+      "object": "Microsoft Azure infrastructure"
+    },
+    {
+      "subject": "Gemini",
+      "relation": "DEVELOPED_BY",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "Gemini",
+      "relation": "ANNOUNCED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "Gemini",
+      "relation": "SUCCESSOR_TO",
+      "object": "LaMDA"
+    },
+    {
+      "subject": "Gemini",
+      "relation": "SUCCESSOR_TO",
+      "object": "PaLM 2"
+    },
+    {
+      "subject": "Gemini",
+      "relation": "POWERS",
+      "object": "Google's Bard chatbot"
+    },
+    {
+      "subject": "Google's Bard chatbot",
+      "relation": "REBRANDED_TO",
+      "object": "Gemini"
+    },
+    {
+      "subject": "Google's Bard chatbot",
+      "relation": "REBRANDED_IN",
+      "object": "2024"
+    },
+    {
+      "subject": "CUDA",
+      "relation": "CREATED_BY",
+      "object": "Nvidia"
+    },
+    {
+      "subject": "CUDA",
+      "relation": "FOUNDED_IN",
+      "object": "2007"
+    },
+    {
+      "subject": "CUDA",
+      "relation": "USED_IN",
+      "object": "PyTorch"
+    },
+    {
+      "subject": "CUDA",
+      "relation": "USED_IN",
+      "object": "TensorFlow"
+    },
+    {
+      "subject": "Nvidia",
+      "relation": "OWNS",
+      "object": "CUDA"
+    },
+    {
+      "subject": "PyTorch",
+      "relation": "DEVELOPED_BY",
+      "object": "Meta AI Research"
+    },
+    {
+      "subject": "PyTorch",
+      "relation": "RELEASED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "PyTorch",
+      "relation": "TRANSFERRED_TO",
+      "object": "PyTorch Foundation"
+    },
+    {
+      "subject": "PyTorch Foundation",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Linux Foundation"
+    },
+    {
+      "subject": "TensorFlow",
+      "relation": "DEVELOPED_BY",
+      "object": "Google Brain"
+    },
+    {
+      "subject": "TensorFlow",
+      "relation": "RELEASED_IN",
+      "object": "2015"
+    },
+    {
+      "subject": "TensorFlow",
+      "relation": "USED_IN",
+      "object": "Google"
+    },
+    {
+      "subject": "Google",
+      "relation": "OWNS",
+      "object": "TensorFlow"
+    },
+    {
+      "subject": "TensorFlow",
+      "relation": "USED_IN",
+      "object": "Search"
+    },
+    {
+      "subject": "TensorFlow",
+      "relation": "USED_IN",
+      "object": "Gmail"
+    },
+    {
+      "subject": "TensorFlow",
+      "relation": "USED_IN",
+      "object": "Photos"
+    },
+    {
+      "subject": "Amazon.com, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Jeff Bezos"
+    },
+    {
+      "subject": "Amazon.com, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "1994"
+    },
+    {
+      "subject": "Amazon.com, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Seattle, Washington"
+    },
+    {
+      "subject": "AWS",
+      "relation": "SUBSIDIARY_OF",
+      "object": "Amazon.com, Inc."
+    },
+    {
+      "subject": "AWS",
+      "relation": "LAUNCHED_IN",
+      "object": "2006"
+    },
+    {
+      "subject": "Andy Jassy",
+      "relation": "SUCCEEDED",
+      "object": "Jeff Bezos"
+    },
+    {
+      "subject": "Andy Jassy",
+      "relation": "CEO_OF",
+      "object": "Amazon.com, Inc."
+    },
+    {
+      "subject": "Andy Jassy",
+      "relation": "SUCCEEDED_IN",
+      "object": "2021"
+    },
+    {
+      "subject": "AWS",
+      "relation": "LARGEST_INVESTOR_IN",
+      "object": "Anthropic"
+    },
+    {
+      "subject": "AWS",
+      "relation": "PROVIDES",
+      "object": "cloud infrastructure"
+    },
+    {
+      "subject": "Anthropic",
+      "relation": "TRAINS",
+      "object": "Claude models"
+    },
+    {
+      "subject": "AWS Trainium chips",
+      "relation": "USED_BY",
+      "object": "Claude models"
+    },
+    {
+      "subject": "Claude models",
+      "relation": "AVAILABLE_THROUGH",
+      "object": "Amazon Bedrock"
+    },
+    {
+      "subject": "Amazon Bedrock",
+      "relation": "IS",
+      "object": "AWS's foundation model service"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "FOUNDED_BY",
+      "object": "Jack Dorsey"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "FOUNDED_BY",
+      "object": "Noah Glass"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "FOUNDED_BY",
+      "object": "Biz Stone"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "FOUNDED_BY",
+      "object": "Evan Williams"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "FOUNDED_IN",
+      "object": "2006"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "ACQUIRED",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "ACQUIRED",
+      "object": "X (Twitter)"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "REBRANDED_TO",
+      "object": "X (Twitter)"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "ACQUIRED",
+      "object": "xAI"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "REBRANDED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "ACQUIRED_IN",
+      "object": "2022"
+    },
+    {
+      "subject": "X (Twitter)",
+      "relation": "ACQUIRED_IN",
+      "object": "2025"
+    },
+    {
+      "subject": "Oculus VR",
+      "relation": "FOUNDED_BY",
+      "object": "Palmer Luckey"
+    },
+    {
+      "subject": "Oculus VR",
+      "relation": "FOUNDED_IN",
+      "object": "2012"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED",
+      "object": "Oculus VR"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED_IN",
+      "object": "2014"
+    },
+    {
+      "subject": "Oculus VR",
+      "relation": "PART_OF",
+      "object": "Meta Platforms Reality Labs"
+    },
+    {
+      "subject": "Oculus VR",
+      "relation": "PRODUCES",
+      "object": "Meta Quest"
+    },
+    {
+      "subject": "Jeff Bezos",
+      "relation": "FOUNDED",
+      "object": "Amazon"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "FOUNDED_IN",
+      "object": "1994"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Seattle, Washington"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Arlington County, Virginia"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "AWS"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Whole Foods Market"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "ACQUIRED",
+      "object": "2017"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "ACQUIRED_FOR",
+      "object": "$13.7 billion"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Twitch"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Amazon MGM Studios"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Zappos"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Audible"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Kuiper Systems"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "OWNS",
+      "object": "Ring"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "FOUNDED_BY",
+      "object": "Charles Ranlett Flint"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "FOUNDED_BY",
+      "object": "Herman Hollerith"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "FOUNDED_BY",
+      "object": "George Winthrop Fairchild"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "FOUNDED_IN",
+      "object": "1911"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Armonk, New York"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "DEVELOPED",
+      "object": "Watson"
+    },
+    {
+      "subject": "Watson",
+      "relation": "DEFEATED",
+      "object": "human Jeopardy! champions"
+    },
+    {
+      "subject": "Watson",
+      "relation": "RELEASED_IN",
+      "object": "2011"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "ACQUIRED",
+      "object": "Red Hat"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "ACQUISITION_DATE",
+      "object": "October 2018"
+    },
+    {
+      "subject": "International Business Machines Corporation",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$34 billion"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "FOUNDED_IN",
+      "object": "1968"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "FOUNDED_BY",
+      "object": "Gordon Moore"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "FOUNDED_BY",
+      "object": "Robert Noyce"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "FOUNDED_BY",
+      "object": "Arthur Rock"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Santa Clara, California"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "DESIGNS",
+      "object": "CPUs"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "CREATED",
+      "object": "Intel 4004"
+    },
+    {
+      "subject": "Intel 4004",
+      "relation": "RELEASED_IN",
+      "object": "1971"
+    },
+    {
+      "subject": "Intel Corporation",
+      "relation": "CO_DEVELOPED",
+      "object": "x86 instruction set"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "1999"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Marc Benioff"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Parker Harris"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Dave Moellenhoff"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Frank Dominguez"
+    },
+    {
+      "subject": "Marc Benioff",
+      "relation": "FORMER_EXECUTIVE_OF",
+      "object": "Oracle"
+    },
+    {
+      "subject": "Larry Ellison",
+      "relation": "INVESTED_IN",
+      "object": "Salesforce, Inc."
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "ACQUIRED",
+      "object": "MuleSoft"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "ACQUIRED",
+      "object": "Tableau Software"
+    },
+    {
+      "subject": "Salesforce, Inc.",
+      "relation": "ACQUIRED",
+      "object": "Slack Technologies"
+    },
+    {
+      "subject": "MuleSoft",
+      "relation": "ACQUIRED_FOR",
+      "object": "$6.5 billion"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "ACQUIRED_FOR",
+      "object": "$15.7 billion"
+    },
+    {
+      "subject": "Slack Technologies",
+      "relation": "ACQUIRED_FOR",
+      "object": "$27.7 billion"
+    },
+    {
+      "subject": "MuleSoft",
+      "relation": "ACQUIRED_IN",
+      "object": "2018"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "ACQUIRED_IN",
+      "object": "2019"
+    },
+    {
+      "subject": "Slack Technologies",
+      "relation": "ACQUIRED_IN",
+      "object": "2021"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Larry Ellison"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Bob Miner"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Ed Oates"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "FOUNDED_IN",
+      "object": "1977"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Austin, Texas"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "ACQUIRED",
+      "object": "Sun Microsystems"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "ACQUIRED_IN",
+      "object": "2010"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "ACQUIRED",
+      "object": "Cerner Corporation"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "ACQUIRED_IN",
+      "object": "2022"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "ACQUIRED",
+      "object": "PeopleSoft"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "relation": "ACQUIRED",
+      "object": "Siebel Systems"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "John Warnock"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Charles Geschke"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "1982"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Jose, California"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "DEVELOPED",
+      "object": "Photoshop"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "DEVELOPED",
+      "object": "Illustrator"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "DEVELOPED",
+      "object": "Acrobat"
+    },
+    {
+      "subject": "Acrobat",
+      "relation": "INTRODUCED",
+      "object": "PDF format"
+    },
+    {
+      "subject": "Acrobat",
+      "relation": "RELEASED_IN",
+      "object": "1993"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ACQUIRED",
+      "object": "Macromedia"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ACQUIRED",
+      "object": "Figma"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ANNOUNCED",
+      "object": "$20 billion acquisition of Figma"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ABANDONED",
+      "object": "$20 billion acquisition of Figma"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "PAID",
+      "object": "$1 billion termination fee"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ACQUIRED_IN",
+      "object": "2005"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ANNOUNCED_IN",
+      "object": "2022"
+    },
+    {
+      "subject": "Adobe Inc.",
+      "relation": "ABANDONED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "Spotify",
+      "relation": "FOUNDED_IN",
+      "object": "2006"
+    },
+    {
+      "subject": "Spotify",
+      "relation": "FOUNDED_BY",
+      "object": "Daniel Ek"
+    },
+    {
+      "subject": "Spotify",
+      "relation": "FOUNDED_BY",
+      "object": "Martin Lorentzon"
+    },
+    {
+      "subject": "Daniel Ek",
+      "relation": "FORMERLY_CEO_OF",
+      "object": "Stardoll"
+    },
+    {
+      "subject": "Martin Lorentzon",
+      "relation": "CO_FOUNDER_OF",
+      "object": "Tradedoubler"
+    },
+    {
+      "subject": "Spotify",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Stockholm"
+    },
+    {
+      "subject": "Spotify",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Sweden"
+    },
+    {
+      "subject": "Netflix",
+      "relation": "FOUNDED_BY",
+      "object": "Reed Hastings"
+    },
+    {
+      "subject": "Netflix",
+      "relation": "FOUNDED_BY",
+      "object": "Marc Randolph"
+    },
+    {
+      "subject": "Netflix",
+      "relation": "FOUNDED_IN",
+      "object": "1997"
+    },
+    {
+      "subject": "Netflix",
+      "relation": "FOUNDED_IN",
+      "object": "August 29, 1997"
+    },
+    {
+      "subject": "Netflix",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Los Gatos, California"
+    },
+    {
+      "subject": "Netflix",
+      "relation": "LAUNCHED",
+      "object": "streaming service"
+    },
+    {
+      "subject": "streaming service",
+      "relation": "LAUNCHED_IN",
+      "object": "2007"
+    },
+    {
+      "subject": "Uber Technologies",
+      "relation": "FOUNDED_IN",
+      "object": "2009"
+    },
+    {
+      "subject": "Uber Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Travis Kalanick"
+    },
+    {
+      "subject": "Uber Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Garrett Camp"
+    },
+    {
+      "subject": "Garrett Camp",
+      "relation": "CO_FOUNDER_OF",
+      "object": "StumbleUpon"
+    },
+    {
+      "subject": "Uber Technologies",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "Dara Khosrowshahi",
+      "relation": "CEO_OF",
+      "object": "Uber Technologies"
+    },
+    {
+      "subject": "Dara Khosrowshahi",
+      "relation": "REPLACED",
+      "object": "Travis Kalanick"
+    },
+    {
+      "subject": "Dara Khosrowshahi",
+      "relation": "PREVIOUSLY_CEO_OF",
+      "object": "Expedia Group"
+    },
+    {
+      "subject": "Dara Khosrowshahi",
+      "relation": "ASSUMED_ROLE_IN",
+      "object": "2017"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Brian Chesky"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Joe Gebbia"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Nathan Blecharczyk"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2008"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "INITIAL_NAME",
+      "object": "AirBed & Breakfast"
+    },
+    {
+      "subject": "Airbnb, Inc.",
+      "relation": "RELEASED_IN",
+      "object": "2009"
+    },
+    {
+      "subject": "Stripe, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2010"
+    },
+    {
+      "subject": "Stripe, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Patrick Collison"
+    },
+    {
+      "subject": "Stripe, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "John Collison"
+    },
+    {
+      "subject": "Patrick Collison",
+      "relation": "CEO_OF",
+      "object": "Stripe, Inc."
+    },
+    {
+      "subject": "John Collison",
+      "relation": "PRESIDENT_OF",
+      "object": "Stripe, Inc."
+    },
+    {
+      "subject": "Stripe, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "South San Francisco, California"
+    },
+    {
+      "subject": "Stripe, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Dublin, Ireland"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "INVESTED_IN",
+      "object": "Stripe, Inc."
+    },
+    {
+      "subject": "Peter Thiel",
+      "relation": "INVESTED_IN",
+      "object": "Stripe, Inc."
+    },
+    {
+      "subject": "Slack",
+      "relation": "CREATED_BY",
+      "object": "Stewart Butterfield"
+    },
+    {
+      "subject": "Slack",
+      "relation": "LAUNCHED_IN",
+      "object": "2013"
+    },
+    {
+      "subject": "Stewart Butterfield",
+      "relation": "DEVELOPED",
+      "object": "Glitch"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUIRED",
+      "object": "Slack"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUIRED_IN",
+      "object": "2021"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$27.7 billion"
+    },
+    {
+      "subject": "Hugging Face, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Clement Delangue"
+    },
+    {
+      "subject": "Hugging Face, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Julien Chaumond"
+    },
+    {
+      "subject": "Hugging Face, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Thomas Wolf"
+    },
+    {
+      "subject": "Hugging Face, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "Hugging Face, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Manhattan, New York City"
+    },
+    {
+      "subject": "Hugging Face, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Transformers library"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Ali Ghodsi"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Andy Konwinski"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Ion Stoica"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Matei Zaharia"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Reynold Xin"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Patrick Wendell"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Arsalan Tavakoli"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2013"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "DEVELOPED",
+      "object": "Apache Spark"
+    },
+    {
+      "subject": "Apache Spark",
+      "relation": "DEVELOPED_AT",
+      "object": "UC Berkeley's AMPLab"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "ACQUIRED",
+      "object": "MosaicML"
+    },
+    {
+      "subject": "MosaicML",
+      "relation": "ACQUIRED_IN",
+      "object": "June 2023"
+    },
+    {
+      "subject": "Databricks, Inc.",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$1.4 billion"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Evan Spiegel"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Bobby Murphy"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "FOUNDED_BY",
+      "object": "Reggie Brown"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "FOUNDED_IN",
+      "object": "2011"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Santa Monica, California"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "REBRANDED_TO",
+      "object": "Snap Inc."
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "REBRANDED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "DEVELOPED",
+      "object": "Snapchat"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "PRODUCES",
+      "object": "Spectacles smartglasses"
+    },
+    {
+      "subject": "Snap Inc.",
+      "relation": "PRODUCES",
+      "object": "Bitmoji"
+    },
+    {
+      "subject": "Reddit",
+      "relation": "FOUNDED_BY",
+      "object": "Steve Huffman"
+    },
+    {
+      "subject": "Reddit",
+      "relation": "FOUNDED_BY",
+      "object": "Alexis Ohanian"
+    },
+    {
+      "subject": "Conde Nast Publications",
+      "relation": "ACQUIRED",
+      "object": "Reddit"
+    },
+    {
+      "subject": "Steve Huffman",
+      "relation": "CEO_OF",
+      "object": "Reddit"
+    },
+    {
+      "subject": "Reddit",
+      "relation": "WENT_PUBLIC_ON",
+      "object": "New York Stock Exchange"
+    },
+    {
+      "subject": "Reddit",
+      "relation": "RELEASED_IN",
+      "object": "2024"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "ACQUIRED",
+      "object": "Microsoft"
+    },
+    {
+      "subject": "LinkedIn",
+      "relation": "ACQUIRED_FOR",
+      "object": "$26.2 billion"
+    },
+    {
+      "subject": "Ryan Roslansky",
+      "relation": "CEO_OF",
+      "object": "LinkedIn"
+    },
+    {
+      "subject": "Reid Hoffman",
+      "relation": "CHAIRS",
+      "object": "LinkedIn board"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "FOUNDED_IN",
+      "object": "2008"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "MERGED_WITH",
+      "object": "Activision, Inc."
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "MERGED_WITH",
+      "object": "Vivendi Games"
+    },
+    {
+      "subject": "Bobby Kotick",
+      "relation": "CEO_OF",
+      "object": "Activision Blizzard"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Santa Monica, California"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "PRODUCES",
+      "object": "Call of Duty"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "PRODUCES",
+      "object": "World of Warcraft"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "PRODUCES",
+      "object": "Overwatch"
+    },
+    {
+      "subject": "Activision Blizzard",
+      "relation": "PRODUCES",
+      "object": "Candy Crush Saga"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUISITION_COMPLETED_ON",
+      "object": "2023-10-13"
+    },
+    {
+      "subject": "Figma",
+      "relation": "FOUNDED_BY",
+      "object": "Dylan Field"
+    },
+    {
+      "subject": "Figma",
+      "relation": "FOUNDED_BY",
+      "object": "Evan Wallace"
+    },
+    {
+      "subject": "Figma",
+      "relation": "FOUNDED_IN",
+      "object": "2012"
+    },
+    {
+      "subject": "Dylan Field",
+      "relation": "RECEIVED",
+      "object": "Thiel Fellowship"
+    },
+    {
+      "subject": "Dylan Field",
+      "relation": "RECEIVED_IN",
+      "object": "2012"
+    },
+    {
+      "subject": "Figma",
+      "relation": "RELEASED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "Figma",
+      "relation": "RELEASED_ON",
+      "object": "September 27"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ANNOUNCED_PLANS_TO_ACQUIRE",
+      "object": "Figma"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ACQUIRED",
+      "object": "Figma"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$20 billion"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ABANDONED_MERGER_WITH",
+      "object": "Figma"
+    },
+    {
+      "subject": "Figma",
+      "relation": "ABANDONED_MERGER_WITH",
+      "object": "Adobe"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ABANDONED_MERGER_IN",
+      "object": "December 2023"
+    },
+    {
+      "subject": "Mistral AI",
+      "relation": "FOUNDED_BY",
+      "object": "Arthur Mensch"
+    },
+    {
+      "subject": "Mistral AI",
+      "relation": "FOUNDED_BY",
+      "object": "Guillaume Lample"
+    },
+    {
+      "subject": "Mistral AI",
+      "relation": "FOUNDED_BY",
+      "object": "Timothee Lacroix"
+    },
+    {
+      "subject": "Mistral AI",
+      "relation": "FOUNDED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "Mistral AI",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Paris"
+    },
+    {
+      "subject": "Arthur Mensch",
+      "relation": "WORKED_AT",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "Guillaume Lample",
+      "relation": "WORKED_AT",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Timothee Lacroix",
+      "relation": "WORKED_AT",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Mistral AI",
+      "relation": "DEVELOPED",
+      "object": "large language models"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "FOUNDED_IN",
+      "object": "2003"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Peter Thiel"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Alex Karp"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Joe Lonsdale"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Stephen Cohen"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "FOUNDED_BY",
+      "object": "Nathan Gettings"
+    },
+    {
+      "subject": "Palantir Technologies",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Denver, Colorado"
+    },
+    {
+      "subject": "Alex Karp",
+      "relation": "CEO_OF",
+      "object": "Palantir Technologies"
+    },
+    {
+      "subject": "Peter Thiel",
+      "relation": "CO_FOUNDER_OF",
+      "object": "PayPal"
+    },
+    {
+      "subject": "Affirm Holdings",
+      "relation": "FOUNDED_IN",
+      "object": "2012"
+    },
+    {
+      "subject": "Affirm Holdings",
+      "relation": "FOUNDED_BY",
+      "object": "Max Levchin"
+    },
+    {
+      "subject": "Affirm Holdings",
+      "relation": "FOUNDED_BY",
+      "object": "Nathan Gettings"
+    },
+    {
+      "subject": "Affirm Holdings",
+      "relation": "FOUNDED_BY",
+      "object": "Jeffrey Kaditz"
+    },
+    {
+      "subject": "Affirm Holdings",
+      "relation": "FOUNDED_BY",
+      "object": "Alex Rampell"
+    },
+    {
+      "subject": "Max Levchin",
+      "relation": "CEO_OF",
+      "object": "Affirm Holdings"
+    },
+    {
+      "subject": "Max Levchin",
+      "relation": "CO_FOUNDER_OF",
+      "object": "PayPal"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "GitHub"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "Activision Blizzard"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "Skype"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "Skype"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "Mojang Studios"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "Mojang Studios"
+    },
+    {
+      "subject": "Mojang Studios",
+      "relation": "DEVELOPED",
+      "object": "Minecraft"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "ZeniMax Media"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "ZeniMax Media"
+    },
+    {
+      "subject": "ZeniMax Media",
+      "relation": "PARENT_OF",
+      "object": "Bethesda Softworks"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED",
+      "object": "Nuance Communications"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "Nuance Communications"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OWNS",
+      "object": "Instagram"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OWNS",
+      "object": "WhatsApp"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OWNS",
+      "object": "Oculus VR"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OWNS",
+      "object": "Beat Games"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED",
+      "object": "Beat Games"
+    },
+    {
+      "subject": "Beat Games",
+      "relation": "MAKER_OF",
+      "object": "Beat Saber"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OWNS",
+      "object": "Within"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED",
+      "object": "Within"
+    },
+    {
+      "subject": "Within",
+      "relation": "MAKER_OF",
+      "object": "Supernatural"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "ACQUIRED",
+      "object": "Supernatural"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OPERATES",
+      "object": "Meta Platforms"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OPERATES",
+      "object": "Messenger"
+    },
+    {
+      "subject": "Meta Platforms",
+      "relation": "OPERATES",
+      "object": "Threads"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "Google"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "YouTube"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "DeepMind"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "Waymo"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "Verily"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "Wing"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "Calico"
+    },
+    {
+      "subject": "Alphabet Inc.",
+      "relation": "OWNS",
+      "object": "CapitalG"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "CO_FOUNDED",
+      "object": "Zip2"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "FOUNDED",
+      "object": "X.com"
+    },
+    {
+      "subject": "X.com",
+      "relation": "BECAME",
+      "object": "PayPal"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "CO_LED",
+      "object": "Tesla's Series A funding"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "CO_FOUNDED",
+      "object": "OpenAI"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "FOUNDED",
+      "object": "Neuralink"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "FOUNDED",
+      "object": "The Boring Company"
+    },
+    {
+      "subject": "Elon Musk",
+      "relation": "FOUNDED",
+      "object": "xAI"
+    },
+    {
+      "subject": "Neuralink",
+      "relation": "FOUNDED_BY",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "Neuralink",
+      "relation": "FOUNDED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "Neuralink",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Fremont, California"
+    },
+    {
+      "subject": "Neuralink",
+      "relation": "DEVELOPED",
+      "object": "implantable brain-computer interfaces"
+    },
+    {
+      "subject": "The Boring Company",
+      "relation": "FOUNDED_BY",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "The Boring Company",
+      "relation": "FOUNDED_IN",
+      "object": "2016"
+    },
+    {
+      "subject": "The Boring Company",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Bastrop, Texas"
+    },
+    {
+      "subject": "The Boring Company",
+      "relation": "BUILT",
+      "object": "Las Vegas Convention Center Loop"
+    },
+    {
+      "subject": "Red Hat",
+      "relation": "FOUNDED_BY",
+      "object": "Bob Young"
+    },
+    {
+      "subject": "Red Hat",
+      "relation": "FOUNDED_BY",
+      "object": "Marc Ewing"
+    },
+    {
+      "subject": "Red Hat",
+      "relation": "FOUNDED_IN",
+      "object": "1993"
+    },
+    {
+      "subject": "Red Hat",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Raleigh, North Carolina"
+    },
+    {
+      "subject": "Red Hat",
+      "relation": "DEVELOPED",
+      "object": "Red Hat Enterprise Linux"
+    },
+    {
+      "subject": "IBM",
+      "relation": "ACQUIRED",
+      "object": "Red Hat"
+    },
+    {
+      "subject": "IBM",
+      "relation": "ACQUIRED_IN",
+      "object": "2019"
+    },
+    {
+      "subject": "IBM",
+      "relation": "ACQUIRED_FOR",
+      "object": "$34 billion"
+    },
+    {
+      "subject": "MosaicML",
+      "relation": "FOUNDED_IN",
+      "object": "2021"
+    },
+    {
+      "subject": "MosaicML",
+      "relation": "FOUNDED_BY",
+      "object": "Naveen Rao"
+    },
+    {
+      "subject": "MosaicML",
+      "relation": "FOUNDED_BY",
+      "object": "Hanlin Tang"
+    },
+    {
+      "subject": "MosaicML",
+      "relation": "DEVELOPED",
+      "object": "open-source generative AI tools"
+    },
+    {
+      "subject": "Databricks",
+      "relation": "ACQUIRED",
+      "object": "MosaicML"
+    },
+    {
+      "subject": "Databricks",
+      "relation": "ACQUIRED_FOR",
+      "object": "$1.4 billion"
+    },
+    {
+      "subject": "MosaicML",
+      "relation": "ACQUIRED_IN",
+      "object": "2023"
+    },
+    {
+      "subject": "Zappos",
+      "relation": "FOUNDED_BY",
+      "object": "Nick Swinmurn"
+    },
+    {
+      "subject": "Zappos",
+      "relation": "FOUNDED_IN",
+      "object": "1999"
+    },
+    {
+      "subject": "Tony Hsieh",
+      "relation": "CEO_OF",
+      "object": "Zappos"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED",
+      "object": "Zappos"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED_IN",
+      "object": "2009"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$1.2 billion"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "FOUNDED_BY",
+      "object": "Justin Kan"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "FOUNDED_BY",
+      "object": "Emmett Shear"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "FOUNDED_IN",
+      "object": "2011"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "ACQUIRED",
+      "object": "Amazon"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED",
+      "object": "Twitch"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "HEADQUARTERED_IN",
+      "object": "San Francisco"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "ACQUIRED_FOR",
+      "object": "$970 million"
+    },
+    {
+      "subject": "Twitch",
+      "relation": "SPUN_OFF_FROM",
+      "object": "Justin.tv"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED_IN",
+      "object": "2014"
+    },
+    {
+      "subject": "Audible",
+      "relation": "FOUNDED_BY",
+      "object": "Don Katz"
+    },
+    {
+      "subject": "Audible",
+      "relation": "FOUNDED_IN",
+      "object": "1995"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED",
+      "object": "Audible"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED_IN",
+      "object": "2008"
+    },
+    {
+      "subject": "Audible",
+      "relation": "HEADQUARTERED_IN",
+      "object": "Newark, New Jersey"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "FOUNDED_IN",
+      "object": "1980"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "FOUNDED_BY",
+      "object": "John Mackey"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "FOUNDED_BY",
+      "object": "Renee Lawson Hardy"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "FOUNDED_BY",
+      "object": "Craig Weller"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "FOUNDED_BY",
+      "object": "Mark Skiles"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED",
+      "object": "Whole Foods Market"
+    },
+    {
+      "subject": "Amazon",
+      "relation": "ACQUIRED_FOR",
+      "object": "$13.7 billion"
+    },
+    {
+      "subject": "Whole Foods Market",
+      "relation": "ACQUIRED_IN",
+      "object": "August 2017"
+    },
+    {
+      "subject": "Macromedia",
+      "relation": "FOUNDED_IN",
+      "object": "1992"
+    },
+    {
+      "subject": "Macromedia",
+      "relation": "DEVELOPED",
+      "object": "Flash"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ACQUIRED",
+      "object": "Macromedia"
+    },
+    {
+      "subject": "Adobe",
+      "relation": "ACQUIRED_FOR",
+      "object": "$3.4 billion"
+    },
+    {
+      "subject": "Macromedia",
+      "relation": "ACQUIRED_BY",
+      "object": "Adobe"
+    },
+    {
+      "subject": "Macromedia",
+      "relation": "ACQUIRED_IN",
+      "object": "2005"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "relation": "FOUNDED_IN",
+      "object": "1982"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "relation": "FOUNDED_BY",
+      "object": "Vinod Khosla"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "relation": "FOUNDED_BY",
+      "object": "Andy Bechtolsheim"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "relation": "FOUNDED_BY",
+      "object": "Bill Joy"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "relation": "FOUNDED_BY",
+      "object": "Scott McNealy"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "relation": "DEVELOPED",
+      "object": "Java programming language"
+    },
+    {
+      "subject": "Oracle",
+      "relation": "ACQUIRED",
+      "object": "Sun Microsystems"
+    },
+    {
+      "subject": "Oracle",
+      "relation": "ACQUIRED_FOR",
+      "object": "over $7 billion"
+    },
+    {
+      "subject": "Oracle",
+      "relation": "ACQUIRED_IN",
+      "object": "2010"
+    },
+    {
+      "subject": "Skype",
+      "relation": "FOUNDED_BY",
+      "object": "Niklas Zennstrom"
+    },
+    {
+      "subject": "Skype",
+      "relation": "FOUNDED_BY",
+      "object": "Janus Friis"
+    },
+    {
+      "subject": "Skype",
+      "relation": "FOUNDED_IN",
+      "object": "2003"
+    },
+    {
+      "subject": "eBay",
+      "relation": "ACQUIRED",
+      "object": "Skype"
+    },
+    {
+      "subject": "eBay",
+      "relation": "ACQUIRED_FOR",
+      "object": "$2.6 billion"
+    },
+    {
+      "subject": "Skype",
+      "relation": "ACQUIRED_BY",
+      "object": "Microsoft"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_FOR",
+      "object": "$8.5 billion"
+    },
+    {
+      "subject": "Skype",
+      "relation": "ACQUIRED_IN",
+      "object": "2011"
+    },
+    {
+      "subject": "eBay",
+      "relation": "ACQUIRED_IN",
+      "object": "2005"
+    },
+    {
+      "subject": "Minecraft",
+      "relation": "DEVELOPED",
+      "object": "Mojang Studios"
+    },
+    {
+      "subject": "Mojang Studios",
+      "relation": "FOUNDED_IN",
+      "object": "2009"
+    },
+    {
+      "subject": "Mojang Studios",
+      "relation": "FOUNDED_BY",
+      "object": "Markus Persson"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_FOR",
+      "object": "$2.5 billion"
+    },
+    {
+      "subject": "Mojang Studios",
+      "relation": "ACQUIRED_IN",
+      "object": "2014"
+    },
+    {
+      "subject": "Bethesda Softworks",
+      "relation": "FOUNDED_BY",
+      "object": "Christopher Weaver"
+    },
+    {
+      "subject": "Bethesda Softworks",
+      "relation": "FOUNDED_IN",
+      "object": "1986"
+    },
+    {
+      "subject": "Bethesda Softworks",
+      "relation": "SUBSIDIARY_OF",
+      "object": "ZeniMax Media"
+    },
+    {
+      "subject": "ZeniMax Media",
+      "relation": "FOUNDED_BY",
+      "object": "Robert A. Altman"
+    },
+    {
+      "subject": "ZeniMax Media",
+      "relation": "FOUNDED_IN",
+      "object": "1999"
+    },
+    {
+      "subject": "ZeniMax Media",
+      "relation": "ACQUIRED_IN",
+      "object": "2021"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "OWNS",
+      "object": "Bethesda Softworks"
+    },
+    {
+      "subject": "Nuance Communications",
+      "relation": "FOUNDED_IN",
+      "object": "N/A"
+    },
+    {
+      "subject": "Nuance Communications",
+      "relation": "SPECIALIZES_IN",
+      "object": "speech recognition"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_FOR",
+      "object": "$19.7 billion"
+    },
+    {
+      "subject": "Microsoft",
+      "relation": "ACQUIRED_IN",
+      "object": "2022"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "FOUNDED_IN",
+      "object": "2003"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "FOUNDED_BY",
+      "object": "Christian Chabot"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "FOUNDED_BY",
+      "object": "Pat Hanrahan"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "FOUNDED_BY",
+      "object": "Chris Stolte"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUIRED",
+      "object": "Tableau Software"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUIRED_FOR",
+      "object": "$15.7 billion"
+    },
+    {
+      "subject": "Tableau Software",
+      "relation": "ACQUIRED_BY",
+      "object": "Salesforce"
+    },
+    {
+      "subject": "MuleSoft",
+      "relation": "FOUNDED_IN",
+      "object": "2006"
+    },
+    {
+      "subject": "MuleSoft",
+      "relation": "FOUNDED_BY",
+      "object": "Ross Mason"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUIRED",
+      "object": "MuleSoft"
+    },
+    {
+      "subject": "Salesforce",
+      "relation": "ACQUISITION_VALUE",
+      "object": "$6.5 billion"
+    }
+  ],
+  "raw_count": 716,
+  "deduped_count": 678,
+  "usage": {
+    "prompt_tokens": 22448,
+    "completion_tokens": 13282
+  },
+  "elapsed_sec": 228.005676984787,
+  "per_doc": [
+    {
+      "doc": "wiki_openai",
+      "n_triples": 14
+    },
+    {
+      "doc": "wiki_google",
+      "n_triples": 13
+    },
+    {
+      "doc": "wiki_meta",
+      "n_triples": 16
+    },
+    {
+      "doc": "wiki_apple",
+      "n_triples": 18
+    },
+    {
+      "doc": "wiki_microsoft",
+      "n_triples": 21
+    },
+    {
+      "doc": "wiki_nvidia",
+      "n_triples": 8
+    },
+    {
+      "doc": "wiki_anthropic",
+      "n_triples": 17
+    },
+    {
+      "doc": "wiki_deepmind",
+      "n_triples": 16
+    },
+    {
+      "doc": "wiki_youtube",
+      "n_triples": 10
+    },
+    {
+      "doc": "wiki_github",
+      "n_triples": 12
+    },
+    {
+      "doc": "wiki_tesla",
+      "n_triples": 17
+    },
+    {
+      "doc": "wiki_instagram",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_whatsapp",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_linkedin",
+      "n_triples": 11
+    },
+    {
+      "doc": "manual_chatgpt",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_claude",
+      "n_triples": 7
+    },
+    {
+      "doc": "manual_alphago",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_alphafold",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_solarcity",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_paypal",
+      "n_triples": 11
+    },
+    {
+      "doc": "manual_paypal_mafia",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_alphabet",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_waymo",
+      "n_triples": 5
+    },
+    {
+      "doc": "manual_xai",
+      "n_triples": 10
+    },
+    {
+      "doc": "manual_spacex",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_gpt4",
+      "n_triples": 5
+    },
+    {
+      "doc": "manual_gemini",
+      "n_triples": 7
+    },
+    {
+      "doc": "manual_cuda",
+      "n_triples": 5
+    },
+    {
+      "doc": "manual_pytorch",
+      "n_triples": 4
+    },
+    {
+      "doc": "manual_tensorflow",
+      "n_triples": 7
+    },
+    {
+      "doc": "manual_amazon_old",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_aws_anthropic",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_x_twitter",
+      "n_triples": 15
+    },
+    {
+      "doc": "manual_oculus",
+      "n_triples": 6
+    },
+    {
+      "doc": "wiki_amazon",
+      "n_triples": 14
+    },
+    {
+      "doc": "wiki_ibm",
+      "n_triples": 11
+    },
+    {
+      "doc": "wiki_intel",
+      "n_triples": 9
+    },
+    {
+      "doc": "wiki_salesforce",
+      "n_triples": 20
+    },
+    {
+      "doc": "wiki_oracle",
+      "n_triples": 11
+    },
+    {
+      "doc": "wiki_adobe",
+      "n_triples": 17
+    },
+    {
+      "doc": "wiki_spotify",
+      "n_triples": 7
+    },
+    {
+      "doc": "wiki_netflix",
+      "n_triples": 7
+    },
+    {
+      "doc": "wiki_uber",
+      "n_triples": 9
+    },
+    {
+      "doc": "wiki_airbnb",
+      "n_triples": 7
+    },
+    {
+      "doc": "wiki_stripe",
+      "n_triples": 9
+    },
+    {
+      "doc": "wiki_slack",
+      "n_triples": 6
+    },
+    {
+      "doc": "wiki_huggingface",
+      "n_triples": 6
+    },
+    {
+      "doc": "wiki_databricks",
+      "n_triples": 14
+    },
+    {
+      "doc": "wiki_snap",
+      "n_triples": 10
+    },
+    {
+      "doc": "wiki_reddit",
+      "n_triples": 6
+    },
+    {
+      "doc": "wiki_linkedin",
+      "n_triples": 9
+    },
+    {
+      "doc": "wiki_activision",
+      "n_triples": 11
+    },
+    {
+      "doc": "wiki_figma",
+      "n_triples": 13
+    },
+    {
+      "doc": "wiki_mistral",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_palantir",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_affirm",
+      "n_triples": 7
+    },
+    {
+      "doc": "manual_msft_subsidiaries",
+      "n_triples": 16
+    },
+    {
+      "doc": "manual_meta_subsidiaries",
+      "n_triples": 16
+    },
+    {
+      "doc": "manual_alphabet_subsidiaries",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_musk_companies",
+      "n_triples": 10
+    },
+    {
+      "doc": "manual_neuralink",
+      "n_triples": 4
+    },
+    {
+      "doc": "manual_boring",
+      "n_triples": 4
+    },
+    {
+      "doc": "manual_redhat",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_mosaicml",
+      "n_triples": 7
+    },
+    {
+      "doc": "manual_zappos",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_twitch",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_audible",
+      "n_triples": 5
+    },
+    {
+      "doc": "manual_wholefoods",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_macromedia",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_sun",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_skype",
+      "n_triples": 9
+    },
+    {
+      "doc": "manual_minecraft",
+      "n_triples": 6
+    },
+    {
+      "doc": "manual_bethesda",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_nuance",
+      "n_triples": 5
+    },
+    {
+      "doc": "manual_tableau",
+      "n_triples": 8
+    },
+    {
+      "doc": "manual_mulesoft",
+      "n_triples": 5
+    }
+  ]
+}

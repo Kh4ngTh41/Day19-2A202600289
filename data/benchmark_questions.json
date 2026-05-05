@@ -1,0 +1,30 @@
+[
+  {"id": "q01", "type": "single_hop", "question": "Who founded OpenAI?", "expected_entities": ["Sam Altman", "Elon Musk", "Ilya Sutskever", "Greg Brockman"]},
+  {"id": "q02", "type": "single_hop", "question": "When was Nvidia founded?", "expected_entities": ["1993"]},
+  {"id": "q03", "type": "single_hop", "question": "Who is the CEO of Microsoft?", "expected_entities": ["Satya Nadella"]},
+  {"id": "q04", "type": "single_hop", "question": "What product is Anthropic known for?", "expected_entities": ["Claude"]},
+  {"id": "q05", "type": "single_hop", "question": "Who acquired GitHub and for how much?", "expected_entities": ["Microsoft", "7.5 billion"]},
+
+  {"id": "q06", "type": "multi_hop", "question": "Who founded the company that owns Instagram?", "expected_entities": ["Mark Zuckerberg", "Eduardo Saverin", "Dustin Moskovitz", "Andrew McCollum", "Chris Hughes"]},
+  {"id": "q07", "type": "multi_hop", "question": "Who is the CEO of the parent company that owns YouTube?", "expected_entities": ["Sundar Pichai"]},
+  {"id": "q08", "type": "multi_hop", "question": "Which Elon Musk company acquired the social media platform formerly known as Twitter?", "expected_entities": ["xAI"]},
+  {"id": "q09", "type": "multi_hop", "question": "Name three companies founded by alumni of PayPal.", "expected_entities": ["YouTube", "Tesla", "LinkedIn", "SpaceX"]},
+  {"id": "q10", "type": "multi_hop", "question": "Which AI lab acquired by Google created AlphaGo?", "expected_entities": ["DeepMind"]},
+  {"id": "q11", "type": "multi_hop", "question": "Who founded the AI company whose CEO siblings used to work at OpenAI?", "expected_entities": ["Dario Amodei", "Daniela Amodei"]},
+  {"id": "q12", "type": "multi_hop", "question": "Microsoft has invested in OpenAI; what is OpenAI's main consumer product released in November 2022?", "expected_entities": ["ChatGPT"]},
+  {"id": "q13", "type": "multi_hop", "question": "Which company developed CUDA, and who is its CEO?", "expected_entities": ["Nvidia", "Jensen Huang"]},
+  {"id": "q14", "type": "multi_hop", "question": "Who founded the company that owns WhatsApp?", "expected_entities": ["Mark Zuckerberg", "Eduardo Saverin", "Dustin Moskovitz", "Andrew McCollum", "Chris Hughes"]},
+  {"id": "q15", "type": "multi_hop", "question": "Tesla acquired SolarCity; who founded SolarCity?", "expected_entities": ["Lyndon Rive", "Peter Rive"]},
+  {"id": "q16", "type": "multi_hop", "question": "Which subsidiary of Alphabet developed AlphaFold?", "expected_entities": ["DeepMind"]},
+  {"id": "q17", "type": "multi_hop", "question": "Who is the CEO of the company that founded Tesla and the founder's other AI company?", "expected_entities": ["Elon Musk", "xAI"]},
+
+  {"id": "q18", "type": "trick", "question": "Did Apple acquire OpenAI?", "expected_entities": ["no", "not"]},
+  {"id": "q19", "type": "trick", "question": "Was Anthropic founded by Sam Altman?", "expected_entities": ["no", "Dario Amodei"]},
+  {"id": "q20", "type": "trick", "question": "Who founded Google: Bill Gates or Larry Page?", "expected_entities": ["Larry Page", "Sergey Brin"]},
+
+  {"id": "q21", "type": "multi_hop", "question": "Who established the company that acquired the developer of Red Hat Enterprise Linux?", "expected_entities": ["Charles Ranlett Flint", "Herman Hollerith", "George Winthrop Fairchild"]},
+  {"id": "q22", "type": "multi_hop", "question": "Which programming language was gained by the company co-founded by Larry Ellison when it acquired another company in 2010?", "expected_entities": ["Java"]},
+  {"id": "q23", "type": "multi_hop", "question": "Who was an early investor in the company that acquired Slack in 2021?", "expected_entities": ["Larry Ellison"]},
+  {"id": "q24", "type": "multi_hop", "question": "Which smartglasses producer originally launched as Snapchat Inc. and who founded it?", "expected_entities": ["Snap", "Evan Spiegel", "Bobby Murphy", "Reggie Brown"]},
+  {"id": "q25", "type": "multi_hop", "question": "Name an early investor in Stripe who also co-founded the company that acquired SolarCity.", "expected_entities": ["Elon Musk"]}
+]
